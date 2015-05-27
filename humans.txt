@@ -1,0 +1,16 @@
+﻿/* TEAM */
+Designer/developer: Adam Duckett.
+Site: adamduckett.io.
+Twitter: @adam_duckkett.
+Location: Blackburn, UK.
+
+
+/* THANKS */
+Ron Swanson: http://drunkronswanson.com/
+
+
+/* SITE */
+Last update: 
+Standards: HTML5, CSS3, JavaScript
+Components: ducky.css, Modernizr, jQuery
+Software: Sublime Text 3
