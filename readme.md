@@ -1,5 +1,7 @@
-# new-game-plus
+# cola
 
-_new-game-plus_ is my personal starting point for new projects but with a few extra features. It contains everything _new-game_ does but with the inclusion of jQuery, Google Fonts and Modernizr.
+_cola_ is my personal starting point for new projects. It features everything [cola-diet](https://github.com/adamduckett/cola-diet.git) does with a little extra sugar (namely: jQuery, Google Fonts and Modernizr).
 
-Feel free to use any code from _new-game-plus_ in your own projects; we're all friends here, mate!
+Looking for the diet option? Grab [cola-diet](https://github.com/adamduckett/cola-diet.git) instead.
+
+Feel free to use any code from _cola_ in your own projects; we're all friends here, mate!
