@@ -1,7 +1,7 @@
 ﻿/* TEAM */
 Designer/developer: Adam Duckett.
 Site: adamduckett.io.
-Twitter: @adam_duckkett.
+Twitter: @adam_duckett.
 Location: Blackburn, UK.
 
 
