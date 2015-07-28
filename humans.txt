@@ -1,16 +1,17 @@
-﻿/* TEAM */
-Designer/developer: Adam Duckett.
-Site: adamduckett.io.
-Twitter: @adam_duckett.
-Location: Blackburn, UK.
+/*
+ * The humans responsible (no robots!) & technology colophon
+ * humanstxt.org
+ */
+
+
+/* TEAM */
+  Adam Duckett -- Web Designer & Front-end Developer -- @adam_duckett
 
 
 /* THANKS */
-Ron Swanson: http://drunkronswanson.com/
+  Ron Swanson: http://drunkronswanson.com/
 
 
 /* SITE */
-Last update: 
-Standards: HTML5, CSS3, JavaScript
-Components: ducky.css, Modernizr, jQuery
-Software: Sublime Text 3
+  HTML5, CSS3
+  jQuery, Modernizr

@@ -1,7 +1,7 @@
-# cola
+# boilerplate
 
-_cola_ is my personal starting point for new projects. It features everything [cola-diet](https://github.com/adamduckett/cola-diet.git) does with a little extra sugar (namely: jQuery, Google Fonts and Modernizr).
+_boilerplate_ is my personal starting point for new projects. It could probably be a little less bloated but, screw you, it&rsquo;s my boilerplate I can include what I like!
 
-Looking for the diet option? Grab [cola-diet](https://github.com/adamduckett/cola-diet.git) instead.
+It includes some basic markup, a solid starting directory structure and some of the more popular dependencies like [Normalize](http://necolas.github.io/normalize.css/), [jQuery](https://jquery.com/) and [Modernizr](http://modernizr.com/).
 
-Feel free to use any code from _cola_ in your own projects; we're all friends here, mate!
+Feel free to use any code from _boilerplate_ in your own projects; it&rsquo;s probably mostly stolen from other sources anyway.
